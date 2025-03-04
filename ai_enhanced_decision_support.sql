@@ -1,4 +1,4 @@
--- SQL Script for AI-Enhanced Decision Support
+-- SQL Script for AI-Enhanced Decision Support 
 CREATE TABLE decision_models (
     id SERIAL PRIMARY KEY,
     model_name VARCHAR(255) NOT NULL,
